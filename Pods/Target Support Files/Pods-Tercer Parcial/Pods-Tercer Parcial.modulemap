@@ -1,0 +1,6 @@
+module Pods_Tercer_Parcial {
+  umbrella header "Pods-Tercer Parcial-umbrella.h"
+
+  export *
+  module * { export * }
+}
